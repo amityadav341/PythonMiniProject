@@ -47,3 +47,6 @@ else:
     print("Enter your bet")      
 
 screen.exitonclick()
+
+
+# Author:- Amit Yadav
