@@ -25,7 +25,7 @@ class QuizBrain:
 
 
 
-# Author:- Amit Yadav
+# Author:- Amit Yadav 
 
          
         
